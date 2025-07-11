@@ -5,5 +5,5 @@ if (argsNum[0] === undefined) {
   console.log("No argument");
 }
 else{
-    console.log(argsNum.join(" "));
+    console.log(argsNum[0]);
 }
